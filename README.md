@@ -1,3 +1,3 @@
 # Simple linktree clone
 
-...For my social media account
+For my social media account
