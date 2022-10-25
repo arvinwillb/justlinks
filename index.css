@@ -1,0 +1,28 @@
+body {
+    width: 100%;
+    height: 100%;
+    color: #F0F0F0;
+    background: linear-gradient(to right, #404040, #696969, #404040);
+}
+
+#profileImg {
+    border-radius: 50%;
+}
+
+li {
+    background-color: rgba(0, 0, 0, 0.5);
+    width: 100%;
+    border-radius: 25px;
+}
+
+.links:hover {
+    color: #b30000;
+}
+
+.links {
+    color: #F0F0F0;
+}
+
+.fa-brands {
+    font-size: 225%;
+}
